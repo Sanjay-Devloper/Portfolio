@@ -27,7 +27,7 @@ A nutrition-focused AI project that helps users make healthier food choices.
 
 ## 📬 Connect With Me
 - **LinkedIn:** [linkedin.com/in/your-link](https://www.linkedin.com/in/sanjay-m-73023b329/)
-- **Email:** yourname@example.com
+- **Email:** sanjaym.210606@gmail.com
 
 ---
 
