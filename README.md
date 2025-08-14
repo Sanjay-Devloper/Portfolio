@@ -15,11 +15,7 @@
 
 ## 📂 Projects
 
-### 🌐 [Portfolio Website](https://github.com/Sanjay-Devlover/Portfolio)  
-A personal portfolio showcasing my skills, projects, and contact info.  
-**Tech Stack:** HTML, CSS, JavaScript  
-
-### 🥗 [nutrio.ai](https://github.com/Sanjay-Devlover/nutrio.ai)  
+### 🥗 [https://github.com/Sanjay-Devloper/nutrio.ai.git) 
 A nutrition-focused AI project that helps users make healthier food choices.  
 **Tech Stack:** Python  
 
